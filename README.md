@@ -9,8 +9,7 @@ A program to compute the number of items in the Collatz sequence. In other words
 **Output**: Smallest 10 beginning numbers with the longest collatz sequence sorted by beginning number and sequence length
 
 **I Have also created a google sheet to predict the run times of each of the languages based on measured benchmarks :**
-    [](https://docs.google.com/spreadsheets/d/1dmGPrR5AuiAofIk__sk0Y6Mv47BZh00KSYefydLqtDY/edit?usp=sharing)
-
+    [Collatz Run Times](https://docs.google.com/spreadsheets/d/1dmGPrR5AuiAofIk__sk0Y6Mv47BZh00KSYefydLqtDY/edit?usp=sharing)
 
 ## For Julia:
 -To compile and run:
